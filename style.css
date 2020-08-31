@@ -1,0 +1,33 @@
+body{
+    background-color: #FF7373;
+   
+}
+
+
+
+*{          
+    margin: 0;
+    padding: 0;
+}
+.button{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    /* margin: 2px; */
+    cursor: pointer;
+    margin: 2px;
+    position: relative;
+    left: 600px;
+    background: #aab1b4;
+    
+   
+}
+
+.textview{
+    width: 205px;
+   margin-left: 603px;
+   margin-top: 200px;
+    font-size: 25px;
+    padding: 5px;
+}
+    
